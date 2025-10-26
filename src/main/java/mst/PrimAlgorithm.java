@@ -61,3 +61,7 @@ public class PrimAlgorithm {
         return new MSTResult(edges, totalCost, operations, timeMs);
     }
 }
+
+
+
+

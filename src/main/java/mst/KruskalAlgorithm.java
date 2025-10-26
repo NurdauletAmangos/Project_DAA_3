@@ -40,3 +40,6 @@ public class KruskalAlgorithm {
         return new MSTResult(mstEdges, totalCost, operations, timeMs);
     }
 }
+
+
+
