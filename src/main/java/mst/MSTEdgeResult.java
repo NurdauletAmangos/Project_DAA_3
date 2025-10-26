@@ -11,3 +11,5 @@ public class MSTEdgeResult {
         this.weight = weight;
     }
 }
+
+
