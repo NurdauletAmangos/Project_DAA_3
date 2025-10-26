@@ -27,3 +27,5 @@ public class MSTAlgorithmsTest {
         assertEquals(3, kruskal.mst_edges.size());
     }
 }
+
+
